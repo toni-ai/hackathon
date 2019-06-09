@@ -1,2 +1,5 @@
-# hackathon
-In order to particiate to the Hackathon please fork this repo and follow the rules posted at https://givevoicetofootball.github.io/
+# "Give voice to Football" Hackathon
+
+Copyright © [Toni.ai GmbH](https://toni.ai) 2019.
+
+For questions please contact us at hello@toni.ai.
