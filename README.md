@@ -6,7 +6,9 @@ For questions please contact us at hello@toni.ai.
 
 ## Description
 
-Together with LAOLA1.at, Austria's largest sports portal, and Sportradar we developed the most advanced messenger chatbot for the men's football World Cup 2018. It was a fully multi-language virtual assistant with a lot of knowledge around football. (see here the demo video: <http://bit.ly/ToniChatbots-BestOfVideo-FußballWM>)
+Together with [LAOLA1.at](https://www.laola1.at), Austria's largest sports portal, and Sportradar we developed the most advanced messenger chatbot for the men's football World Cup 2018. It was a fully multi-language virtual assistant with a lot of knowledge around football. (see here the demo video: <http://bit.ly/ToniChatbots-BestOfVideo-FußballWM>)
+
+![Toni Chatbot - Matchday](toni_football_chatbot_worldcup18_matchday.png "Toni Chatbot - Matchday")
 
 Now we want to bring this functionality to voice assistants. The underlying technology and natural language processing capabilities of our Toni.ai platform will give us a head start allow us to quickly develop a voice interface.
 
